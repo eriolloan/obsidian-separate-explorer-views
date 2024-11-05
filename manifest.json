@@ -1,0 +1,10 @@
+{
+	"id": "separate-explorer-views",
+	"name": "Separate Explorer Views",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Adds ribbon icons to toggle between file explorer, search, and bookmarks views.",
+	"author": "eriolloan",
+	"authorUrl": "https://github.com/eriolloan",
+	"isDesktopOnly": false
+}
